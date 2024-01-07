@@ -1,0 +1,14 @@
+nh:
+AMSR2_land_nh ; dtype: uint8
+AMSR2_latitude_nh ; dtype: float16
+AMSR2_longitude_nh ; dtype: float16
+
+
+shape: 3300, 2100
+
+sh:
+AMSR2_land_sh ; dtype: uint8
+AMSR2_latitude_sh ; dtype: float16
+AMSR2_longitude_sh ; dtype: float16
+
+shape: 2500, 2200

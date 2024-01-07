@@ -1,0 +1,12 @@
+numpy
+pandas
+Pillow
+openpyxl
+PyDrive
+matplotlib
+netCDF4
+requests
+xldr
+moviepy
+xarray
+pyproj

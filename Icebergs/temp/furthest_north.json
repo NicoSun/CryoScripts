@@ -1,0 +1,1922 @@
+[
+    {
+        "Iceberg": "a57a; Date: 2019214 \n Lat:-42.5667 Lon:-33.9167",
+        "Latitude": -42.5667,
+        "Longitude": -33.9167
+    },
+    {
+        "Iceberg": "c19c; Date: 2013077 \n Lat:-44.4334 Lon:-1.9385",
+        "Latitude": -44.4334,
+        "Longitude": -1.9385
+    },
+    {
+        "Iceberg": "c16; Date: 2014157 \n Lat:-46.21 Lon:26.13",
+        "Latitude": -46.21,
+        "Longitude": 26.13
+    },
+    {
+        "Iceberg": "a20b; Date: 1988024 \n Lat:-46.3 Lon:-24",
+        "Latitude": -46.3,
+        "Longitude": -24.0
+    },
+    {
+        "Iceberg": "a43g; Date: 2003243 \n Lat:-46.6 Lon:-13.8",
+        "Latitude": -46.6,
+        "Longitude": -13.8
+    },
+    {
+        "Iceberg": "b15k; Date: 2016337 \n Lat:-46.7333 Lon:-32.8333",
+        "Latitude": -46.7333,
+        "Longitude": -32.8333
+    },
+    {
+        "Iceberg": "b15b; Date: 2014007 \n Lat:-47.6037 Lon:-6.4394",
+        "Latitude": -47.6037,
+        "Longitude": -6.4394
+    },
+    {
+        "Iceberg": "c20; Date: 2006064 \n Lat:-47.6562 Lon:105.8009",
+        "Latitude": -47.6562,
+        "Longitude": 105.8009
+    },
+    {
+        "Iceberg": "a56; Date: 2016239 \n Lat:-47.8167 Lon:-23.25",
+        "Latitude": -47.8167,
+        "Longitude": -23.25
+    },
+    {
+        "Iceberg": "a22a; Date: 2007129 \n Lat:-48.3298 Lon:-30.3266",
+        "Latitude": -48.3298,
+        "Longitude": -30.3266
+    },
+    {
+        "Iceberg": "b09a; Date: 2003276 \n Lat:-48.8822 Lon:-11.8787",
+        "Latitude": -48.8822,
+        "Longitude": -11.8787
+    },
+    {
+        "Iceberg": "a34a; Date: 2005113 \n Lat:-49.0279 Lon:-20.3862",
+        "Latitude": -49.0279,
+        "Longitude": -20.3862
+    },
+    {
+        "Iceberg": "b15d; Date: 2008330 \n Lat:-49.0633 Lon:-37.5119",
+        "Latitude": -49.0633,
+        "Longitude": -37.5119
+    },
+    {
+        "Iceberg": "a24d; Date: 1992131 \n Lat:-49.1 Lon:-54.4",
+        "Latitude": -49.1,
+        "Longitude": -54.4
+    },
+    {
+        "Iceberg": "a22c; Date: 2001315 \n Lat:-49.2 Lon:8.1",
+        "Latitude": -49.2,
+        "Longitude": 8.1
+    },
+    {
+        "Iceberg": "a24a; Date: 1992131 \n Lat:-49.3 Lon:-54.6",
+        "Latitude": -49.3,
+        "Longitude": -54.6
+    },
+    {
+        "Iceberg": "a24c; Date: 1992131 \n Lat:-49.3 Lon:-54.5",
+        "Latitude": -49.3,
+        "Longitude": -54.5
+    },
+    {
+        "Iceberg": "a24b; Date: 1992131 \n Lat:-49.3 Lon:-54.5",
+        "Latitude": -49.3,
+        "Longitude": -54.5
+    },
+    {
+        "Iceberg": "b15f; Date: 2013074 \n Lat:-49.466 Lon:-29.7615",
+        "Latitude": -49.466,
+        "Longitude": -29.7615
+    },
+    {
+        "Iceberg": "a08; Date: 1980034 \n Lat:-49.5 Lon:-29",
+        "Latitude": -49.5,
+        "Longitude": -29.0
+    },
+    {
+        "Iceberg": "a43f; Date: 2008340 \n Lat:-49.5281 Lon:-28.5359",
+        "Latitude": -49.5281,
+        "Longitude": -28.5359
+    },
+    {
+        "Iceberg": "a01; Date: 1979126 \n Lat:-50.2 Lon:-26.3",
+        "Latitude": -50.2,
+        "Longitude": -26.3
+    },
+    {
+        "Iceberg": "a38e; Date: 2004215 \n Lat:-50.2513 Lon:-17.6192",
+        "Latitude": -50.2513,
+        "Longitude": -17.6192
+    },
+    {
+        "Iceberg": "a09; Date: 1980013 \n Lat:-50.4 Lon:-31.5",
+        "Latitude": -50.4,
+        "Longitude": -31.5
+    },
+    {
+        "Iceberg": "b15z; Date: 2018159 \n Lat:-50.4333 Lon:-39.6",
+        "Latitude": -50.4333,
+        "Longitude": -39.6
+    },
+    {
+        "Iceberg": "a43k; Date: 2008321 \n Lat:-50.5 Lon:-30.47",
+        "Latitude": -50.5,
+        "Longitude": -30.47
+    },
+    {
+        "Iceberg": "a24; Date: 1992068 \n Lat:-50.7 Lon:-47",
+        "Latitude": -50.7,
+        "Longitude": -47.0
+    },
+    {
+        "Iceberg": "a10; Date: 1980041 \n Lat:-50.8 Lon:-39.2",
+        "Latitude": -50.8,
+        "Longitude": -39.2
+    },
+    {
+        "Iceberg": "b15a; Date: 2009025 \n Lat:-50.8543 Lon:-149.1863",
+        "Latitude": -50.8543,
+        "Longitude": -149.1863
+    },
+    {
+        "Iceberg": "a76f; Date: 2023237 \n Lat:-51.17 Lon:-36.92",
+        "Latitude": -51.17,
+        "Longitude": -36.92
+    },
+    {
+        "Iceberg": "a76e; Date: 2023195 \n Lat:-51.19 Lon:-40.76",
+        "Latitude": -51.19,
+        "Longitude": -40.76
+    },
+    {
+        "Iceberg": "b10a; Date: 2000058 \n Lat:-51.2 Lon:-34.6",
+        "Latitude": -51.2,
+        "Longitude": -34.6
+    },
+    {
+        "Iceberg": "a38f; Date: 2004152 \n Lat:-51.2627 Lon:-21.9963",
+        "Latitude": -51.2627,
+        "Longitude": -21.9963
+    },
+    {
+        "Iceberg": "a22b; Date: 2000184 \n Lat:-51.4 Lon:-39.3",
+        "Latitude": -51.4,
+        "Longitude": -39.3
+    },
+    {
+        "Iceberg": "a76j; Date: 2023195 \n Lat:-51.4 Lon:-39.39",
+        "Latitude": -51.4,
+        "Longitude": -39.39
+    },
+    {
+        "Iceberg": "a53a; Date: 2008116 \n Lat:-51.4395 Lon:-33.2481",
+        "Latitude": -51.4395,
+        "Longitude": -33.2481
+    },
+    {
+        "Iceberg": "b09h; Date: 2017307 \n Lat:-51.65 Lon:-33.4833",
+        "Latitude": -51.65,
+        "Longitude": -33.4833
+    },
+    {
+        "Iceberg": "a76a; Date: 2023230 \n Lat:-51.65 Lon:-37.72",
+        "Latitude": -51.65,
+        "Longitude": -37.72
+    },
+    {
+        "Iceberg": "a76l; Date: 2023230 \n Lat:-51.75 Lon:-38.48",
+        "Latitude": -51.75,
+        "Longitude": -38.48
+    },
+    {
+        "Iceberg": "a65; Date: 2016048 \n Lat:-51.8169 Lon:-35.1983",
+        "Latitude": -51.8169,
+        "Longitude": -35.1983
+    },
+    {
+        "Iceberg": "a66; Date: 2016316 \n Lat:-51.85 Lon:-28.4833",
+        "Latitude": -51.85,
+        "Longitude": -28.4833
+    },
+    {
+        "Iceberg": "a20a; Date: 1988087 \n Lat:-51.9 Lon:-30",
+        "Latitude": -51.9,
+        "Longitude": -30.0
+    },
+    {
+        "Iceberg": "a38a; Date: 2004126 \n Lat:-51.9781 Lon:-29.4198",
+        "Latitude": -51.9781,
+        "Longitude": -29.4198
+    },
+    {
+        "Iceberg": "a38c; Date: 2004004 \n Lat:-52.0149 Lon:-40.7313",
+        "Latitude": -52.0149,
+        "Longitude": -40.7313
+    },
+    {
+        "Iceberg": "a43b; Date: 2004045 \n Lat:-52.022 Lon:-41.8045",
+        "Latitude": -52.022,
+        "Longitude": -41.8045
+    },
+    {
+        "Iceberg": "b17b; Date: 2009306 \n Lat:-52.0342 Lon:104.6968",
+        "Latitude": -52.0342,
+        "Longitude": 104.6968
+    },
+    {
+        "Iceberg": "b17a; Date: 2015136 \n Lat:-52.0476 Lon:-37.4292",
+        "Latitude": -52.0476,
+        "Longitude": -37.4292
+    },
+    {
+        "Iceberg": "a43a; Date: 2005030 \n Lat:-52.0603 Lon:-23.7926",
+        "Latitude": -52.0603,
+        "Longitude": -23.7926
+    },
+    {
+        "Iceberg": "a38d; Date: 2004028 \n Lat:-52.0725 Lon:-24.6993",
+        "Latitude": -52.0725,
+        "Longitude": -24.6993
+    },
+    {
+        "Iceberg": "a68e; Date: 2021036 \n Lat:-52.26 Lon:-37.64",
+        "Latitude": -52.26,
+        "Longitude": -37.64
+    },
+    {
+        "Iceberg": "a47; Date: 2003080 \n Lat:-52.2885 Lon:-46.4126",
+        "Latitude": -52.2885,
+        "Longitude": -46.4126
+    },
+    {
+        "Iceberg": "a76m; Date: 2023216 \n Lat:-52.49 Lon:-38.14",
+        "Latitude": -52.49,
+        "Longitude": -38.14
+    },
+    {
+        "Iceberg": "c02; Date: 1989358 \n Lat:-52.5 Lon:-42.5",
+        "Latitude": -52.5,
+        "Longitude": -42.5
+    },
+    {
+        "Iceberg": "a68c; Date: 2020311 \n Lat:-52.5167 Lon:-31.2",
+        "Latitude": -52.5167,
+        "Longitude": -31.2
+    },
+    {
+        "Iceberg": "a68a; Date: 2021109 \n Lat:-52.5317 Lon:-32.6498",
+        "Latitude": -52.5317,
+        "Longitude": -32.6498
+    },
+    {
+        "Iceberg": "b15t; Date: 2018339 \n Lat:-52.5825 Lon:-28.4739",
+        "Latitude": -52.5825,
+        "Longitude": -28.4739
+    },
+    {
+        "Iceberg": "a38b; Date: 2004304 \n Lat:-52.6574 Lon:-37.4766",
+        "Latitude": -52.6574,
+        "Longitude": -37.4766
+    },
+    {
+        "Iceberg": "a43c; Date: 2003298 \n Lat:-52.6993 Lon:-28.7434",
+        "Latitude": -52.6993,
+        "Longitude": -28.7434
+    },
+    {
+        "Iceberg": "b09d; Date: 2018103 \n Lat:-52.7167 Lon:-14.5167",
+        "Latitude": -52.7167,
+        "Longitude": -14.5167
+    },
+    {
+        "Iceberg": "a68i; Date: 2021050 \n Lat:-52.72 Lon:-35.81",
+        "Latitude": -52.72,
+        "Longitude": -35.81
+    },
+    {
+        "Iceberg": "b15j; Date: 2012009 \n Lat:-52.7977 Lon:-144.8762",
+        "Latitude": -52.7977,
+        "Longitude": -144.8762
+    },
+    {
+        "Iceberg": "a76h; Date: 2023230 \n Lat:-52.84 Lon:-38.2",
+        "Latitude": -52.84,
+        "Longitude": -38.2
+    },
+    {
+        "Iceberg": "c19d; Date: 2009287 \n Lat:-52.8678 Lon:-46.7104",
+        "Latitude": -52.8678,
+        "Longitude": -46.7104
+    },
+    {
+        "Iceberg": "a76d; Date: 2023216 \n Lat:-52.87 Lon:-37.02",
+        "Latitude": -52.87,
+        "Longitude": -37.02
+    },
+    {
+        "Iceberg": "b15aa; Date: 2020073 \n Lat:-52.9667 Lon:-30.8833",
+        "Latitude": -52.9667,
+        "Longitude": -30.8833
+    },
+    {
+        "Iceberg": "a68h; Date: 2021071 \n Lat:-52.98 Lon:-36.4",
+        "Latitude": -52.98,
+        "Longitude": -36.4
+    },
+    {
+        "Iceberg": "b19; Date: 2003047 \n Lat:-53.2 Lon:-166.8",
+        "Latitude": -53.2,
+        "Longitude": -166.8
+    },
+    {
+        "Iceberg": "b31a; Date: 2018190 \n Lat:-53.2403 Lon:-53.8565",
+        "Latitude": -53.2403,
+        "Longitude": -53.8565
+    },
+    {
+        "Iceberg": "a43i; Date: 2003292 \n Lat:-53.4 Lon:-40.4",
+        "Latitude": -53.4,
+        "Longitude": -40.4
+    },
+    {
+        "Iceberg": "a43e; Date: 2005352 \n Lat:-53.42 Lon:-28.72",
+        "Latitude": -53.42,
+        "Longitude": -28.72
+    },
+    {
+        "Iceberg": "b15n; Date: 2011303 \n Lat:-53.56 Lon:93.38",
+        "Latitude": -53.56,
+        "Longitude": 93.38
+    },
+    {
+        "Iceberg": "a62; Date: 2013218 \n Lat:-53.5874 Lon:-30.1821",
+        "Latitude": -53.5874,
+        "Longitude": -30.1821
+    },
+    {
+        "Iceberg": "d11; Date: 2001063 \n Lat:-53.6 Lon:-25.4",
+        "Latitude": -53.6,
+        "Longitude": -25.4
+    },
+    {
+        "Iceberg": "a68j; Date: 2021071 \n Lat:-53.71 Lon:-35.96",
+        "Latitude": -53.71,
+        "Longitude": -35.96
+    },
+    {
+        "Iceberg": "c19c1; Date: 2013024 \n Lat:-53.7168 Lon:-35.7382",
+        "Latitude": -53.7168,
+        "Longitude": -35.7382
+    },
+    {
+        "Iceberg": "a43j; Date: 2005081 \n Lat:-53.7304 Lon:-44.5579",
+        "Latitude": -53.7304,
+        "Longitude": -44.5579
+    },
+    {
+        "Iceberg": "a46; Date: 2003061 \n Lat:-53.8 Lon:-45.5",
+        "Latitude": -53.8,
+        "Longitude": -45.5
+    },
+    {
+        "Iceberg": "b15ac; Date: 2019046 \n Lat:-53.8 Lon:-27.05",
+        "Latitude": -53.8,
+        "Longitude": -27.05
+    },
+    {
+        "Iceberg": "a62a; Date: 2013234 \n Lat:-53.8857 Lon:-25.8764",
+        "Latitude": -53.8857,
+        "Longitude": -25.8764
+    },
+    {
+        "Iceberg": "a76i; Date: 2023147 \n Lat:-53.9522 Lon:-42.3233",
+        "Latitude": -53.9522,
+        "Longitude": -42.3233
+    },
+    {
+        "Iceberg": "b15y; Date: 2016201 \n Lat:-54.0084 Lon:-42.4447",
+        "Latitude": -54.0084,
+        "Longitude": -42.4447
+    },
+    {
+        "Iceberg": "b15j1; Date: 2011351 \n Lat:-54.0784 Lon:-154.4562",
+        "Latitude": -54.0784,
+        "Longitude": -154.4562
+    },
+    {
+        "Iceberg": "a76g; Date: 2023146 \n Lat:-54.1 Lon:-40.22",
+        "Latitude": -54.1,
+        "Longitude": -40.22
+    },
+    {
+        "Iceberg": "b16; Date: 2019326 \n Lat:-54.1167 Lon:-31.4167",
+        "Latitude": -54.1167,
+        "Longitude": -31.4167
+    },
+    {
+        "Iceberg": "c28a; Date: 2013196 \n Lat:-54.1407 Lon:88.2808",
+        "Latitude": -54.1407,
+        "Longitude": 88.2808
+    },
+    {
+        "Iceberg": "b15w; Date: 2011275 \n Lat:-54.15 Lon:85.2",
+        "Latitude": -54.15,
+        "Longitude": 85.2
+    },
+    {
+        "Iceberg": "a04; Date: 1979294 \n Lat:-54.2 Lon:-30.8",
+        "Latitude": -54.2,
+        "Longitude": -30.8
+    },
+    {
+        "Iceberg": "a61; Date: 2018033 \n Lat:-54.3167 Lon:-12.1",
+        "Latitude": -54.3167,
+        "Longitude": -12.1
+    },
+    {
+        "Iceberg": "b27; Date: 2013354 \n Lat:-54.392 Lon:-133.693",
+        "Latitude": -54.392,
+        "Longitude": -133.693
+    },
+    {
+        "Iceberg": "a48; Date: 2004028 \n Lat:-54.4455 Lon:-38.3483",
+        "Latitude": -54.4455,
+        "Longitude": -38.3483
+    },
+    {
+        "Iceberg": "a76k; Date: 2023216 \n Lat:-54.51 Lon:-38.42",
+        "Latitude": -54.51,
+        "Longitude": -38.42
+    },
+    {
+        "Iceberg": "b15x; Date: 2016043 \n Lat:-54.5674 Lon:-37.3435",
+        "Latitude": -54.5674,
+        "Longitude": -37.3435
+    },
+    {
+        "Iceberg": "a02; Date: 1979294 \n Lat:-54.6 Lon:-32.8",
+        "Latitude": -54.6,
+        "Longitude": -32.8
+    },
+    {
+        "Iceberg": "c21a; Date: 2008208 \n Lat:-54.6229 Lon:-40.6129",
+        "Latitude": -54.6229,
+        "Longitude": -40.6129
+    },
+    {
+        "Iceberg": "a52; Date: 2006112 \n Lat:-54.6835 Lon:-37.6162",
+        "Latitude": -54.6835,
+        "Longitude": -37.6162
+    },
+    {
+        "Iceberg": "a32a; Date: 1995345 \n Lat:-54.7296 Lon:-50.2613",
+        "Latitude": -54.7296,
+        "Longitude": -50.2613
+    },
+    {
+        "Iceberg": "b09i; Date: 2022112 \n Lat:-54.76 Lon:-26.98",
+        "Latitude": -54.76,
+        "Longitude": -26.98
+    },
+    {
+        "Iceberg": "a29; Date: 1992033 \n Lat:-55.2 Lon:-38.8",
+        "Latitude": -55.2,
+        "Longitude": -38.8
+    },
+    {
+        "Iceberg": "b14; Date: 2001336 \n Lat:-55.2 Lon:-146.2",
+        "Latitude": -55.2,
+        "Longitude": -146.2
+    },
+    {
+        "Iceberg": "a16; Date: 1982101 \n Lat:-55.2 Lon:-38.9",
+        "Latitude": -55.2,
+        "Longitude": -38.9
+    },
+    {
+        "Iceberg": "a68d; Date: 2021015 \n Lat:-55.24 Lon:-36.36",
+        "Latitude": -55.24,
+        "Longitude": -36.36
+    },
+    {
+        "Iceberg": "a68g; Date: 2021071 \n Lat:-55.41 Lon:-35.87",
+        "Latitude": -55.41,
+        "Longitude": -35.87
+    },
+    {
+        "Iceberg": "a68k; Date: 2021050 \n Lat:-55.47 Lon:-34.42",
+        "Latitude": -55.47,
+        "Longitude": -34.42
+    },
+    {
+        "Iceberg": "d04; Date: 1979343 \n Lat:-55.5 Lon:84",
+        "Latitude": -55.5,
+        "Longitude": 84.0
+    },
+    {
+        "Iceberg": "c18a; Date: 2009320 \n Lat:-55.5069 Lon:-39.5657",
+        "Latitude": -55.5069,
+        "Longitude": -39.5657
+    },
+    {
+        "Iceberg": "b09f; Date: 2019138 \n Lat:-55.6221 Lon:-41.0882",
+        "Latitude": -55.6221,
+        "Longitude": -41.0882
+    },
+    {
+        "Iceberg": "b15r; Date: 2016127 \n Lat:-55.6333 Lon:-9.2",
+        "Latitude": -55.6333,
+        "Longitude": -9.2
+    },
+    {
+        "Iceberg": "a68p; Date: 2021057 \n Lat:-55.66 Lon:-34.84",
+        "Latitude": -55.66,
+        "Longitude": -34.84
+    },
+    {
+        "Iceberg": "c19a; Date: 2008209 \n Lat:-55.73 Lon:-134.88",
+        "Latitude": -55.73,
+        "Longitude": -134.88
+    },
+    {
+        "Iceberg": "a68n; Date: 2021057 \n Lat:-55.8 Lon:-34.48",
+        "Latitude": -55.8,
+        "Longitude": -34.48
+    },
+    {
+        "Iceberg": "a68o; Date: 2021050 \n Lat:-55.92 Lon:-35.16",
+        "Latitude": -55.92,
+        "Longitude": -35.16
+    },
+    {
+        "Iceberg": "b09j; Date: 2019123 \n Lat:-55.9833 Lon:-41.8667",
+        "Latitude": -55.9833,
+        "Longitude": -41.8667
+    },
+    {
+        "Iceberg": "a28; Date: 1992271 \n Lat:-56.1466 Lon:-38.3893",
+        "Latitude": -56.1466,
+        "Longitude": -38.3893
+    },
+    {
+        "Iceberg": "b14b; Date: 2001287 \n Lat:-56.15 Lon:-152.2",
+        "Latitude": -56.15,
+        "Longitude": -152.2
+    },
+    {
+        "Iceberg": "a68m; Date: 2021043 \n Lat:-56.44 Lon:-36.21",
+        "Latitude": -56.44,
+        "Longitude": -36.21
+    },
+    {
+        "Iceberg": "a68f; Date: 2020360 \n Lat:-56.49 Lon:-35",
+        "Latitude": -56.49,
+        "Longitude": -35.0
+    },
+    {
+        "Iceberg": "a68l; Date: 2021044 \n Lat:-56.9731 Lon:-33.398",
+        "Latitude": -56.9731,
+        "Longitude": -33.398
+    },
+    {
+        "Iceberg": "d21b; Date: 2021131 \n Lat:-57.036 Lon:-25.7127",
+        "Latitude": -57.036,
+        "Longitude": -25.7127
+    },
+    {
+        "Iceberg": "d21a; Date: 2018041 \n Lat:-57.3748 Lon:-24.9021",
+        "Latitude": -57.3748,
+        "Longitude": -24.9021
+    },
+    {
+        "Iceberg": "b31; Date: 2018251 \n Lat:-57.5571 Lon:-49.4607",
+        "Latitude": -57.5571,
+        "Longitude": -49.4607
+    },
+    {
+        "Iceberg": "c06; Date: 1993201 \n Lat:-57.6074 Lon:84.5448",
+        "Latitude": -57.6074,
+        "Longitude": 84.5448
+    },
+    {
+        "Iceberg": "a31; Date: 1992235 \n Lat:-57.6754 Lon:-52.9284",
+        "Latitude": -57.6754,
+        "Longitude": -52.9284
+    },
+    {
+        "Iceberg": "c28b; Date: 2018204 \n Lat:-57.7652 Lon:-42.1189",
+        "Latitude": -57.7652,
+        "Longitude": -42.1189
+    },
+    {
+        "Iceberg": "b50; Date: 2022259 \n Lat:-57.85 Lon:-149.11",
+        "Latitude": -57.85,
+        "Longitude": -149.11
+    },
+    {
+        "Iceberg": "a25; Date: 1990084 \n Lat:-58 Lon:-40.5",
+        "Latitude": -58.0,
+        "Longitude": -40.5
+    },
+    {
+        "Iceberg": "c07; Date: 1992265 \n Lat:-58.0483 Lon:-44.5659",
+        "Latitude": -58.0483,
+        "Longitude": -44.5659
+    },
+    {
+        "Iceberg": "b15p; Date: 2007077 \n Lat:-58.13 Lon:154.2",
+        "Latitude": -58.13,
+        "Longitude": 154.2
+    },
+    {
+        "Iceberg": "a21a; Date: 1987361 \n Lat:-58.2 Lon:-44.8",
+        "Latitude": -58.2,
+        "Longitude": -44.8
+    },
+    {
+        "Iceberg": "a03; Date: 1979035 \n Lat:-58.3 Lon:-43.9",
+        "Latitude": -58.3,
+        "Longitude": -43.9
+    },
+    {
+        "Iceberg": "a69c; Date: 2022264 \n Lat:-58.4646 Lon:-49.3661",
+        "Latitude": -58.4646,
+        "Longitude": -49.3661
+    },
+    {
+        "Iceberg": "a50; Date: 2003166 \n Lat:-59 Lon:-50.5",
+        "Latitude": -59.0,
+        "Longitude": -50.5
+    },
+    {
+        "Iceberg": "c04; Date: 1979357 \n Lat:-59 Lon:91",
+        "Latitude": -59.0,
+        "Longitude": 91.0
+    },
+    {
+        "Iceberg": "a69b; Date: 2022253 \n Lat:-59.0768 Lon:-53.0035",
+        "Latitude": -59.0768,
+        "Longitude": -53.0035
+    },
+    {
+        "Iceberg": "a26; Date: 1988108 \n Lat:-59.5 Lon:-46.2",
+        "Latitude": -59.5,
+        "Longitude": -46.2
+    },
+    {
+        "Iceberg": "c08; Date: 2009326 \n Lat:-59.5368 Lon:-38.8628",
+        "Latitude": -59.5368,
+        "Longitude": -38.8628
+    },
+    {
+        "Iceberg": "b15u; Date: 2008111 \n Lat:-59.67 Lon:179.43",
+        "Latitude": -59.67,
+        "Longitude": 179.43
+    },
+    {
+        "Iceberg": "b15l; Date: 2009326 \n Lat:-59.7706 Lon:-33.6402",
+        "Latitude": -59.7706,
+        "Longitude": -33.6402
+    },
+    {
+        "Iceberg": "b01; Date: 1986033 \n Lat:-59.8 Lon:-47",
+        "Latitude": -59.8,
+        "Longitude": -47.0
+    },
+    {
+        "Iceberg": "a70; Date: 2023182 \n Lat:-59.817 Lon:-52.5858",
+        "Latitude": -59.817,
+        "Longitude": -52.5858
+    },
+    {
+        "Iceberg": "a68b; Date: 2020213 \n Lat:-59.8694 Lon:-56.8076",
+        "Latitude": -59.8694,
+        "Longitude": -56.8076
+    },
+    {
+        "Iceberg": "a64; Date: 2022348 \n Lat:-59.9489 Lon:-48.4828",
+        "Latitude": -59.9489,
+        "Longitude": -48.4828
+    },
+    {
+        "Iceberg": "a69a; Date: 2023012 \n Lat:-60.0615 Lon:-48.2336",
+        "Latitude": -60.0615,
+        "Longitude": -48.2336
+    },
+    {
+        "Iceberg": "a23b; Date: 1999312 \n Lat:-60.1206 Lon:-32.065",
+        "Latitude": -60.1206,
+        "Longitude": -32.065
+    },
+    {
+        "Iceberg": "b04; Date: 1985055 \n Lat:-60.4 Lon:-37.8",
+        "Latitude": -60.4,
+        "Longitude": -37.8
+    },
+    {
+        "Iceberg": "e20; Date: 1999312 \n Lat:-60.796 Lon:-36.195",
+        "Latitude": -60.796,
+        "Longitude": -36.195
+    },
+    {
+        "Iceberg": "a05; Date: 1979308 \n Lat:-60.8 Lon:-51",
+        "Latitude": -60.8,
+        "Longitude": -51.0
+    },
+    {
+        "Iceberg": "b42; Date: 2022298 \n Lat:-60.8904 Lon:-133.6216",
+        "Latitude": -60.8904,
+        "Longitude": -133.6216
+    },
+    {
+        "Iceberg": "d29b; Date: 2023230 \n Lat:-60.9 Lon:-54.8",
+        "Latitude": -60.9,
+        "Longitude": -54.8
+    },
+    {
+        "Iceberg": "a54a; Date: 2007042 \n Lat:-60.93 Lon:-52.77",
+        "Latitude": -60.93,
+        "Longitude": -52.77
+    },
+    {
+        "Iceberg": "c26; Date: 2011044 \n Lat:-60.97 Lon:-179.59",
+        "Latitude": -60.97,
+        "Longitude": -179.59
+    },
+    {
+        "Iceberg": "a17; Date: 1983149 \n Lat:-61 Lon:-49.2",
+        "Latitude": -61.0,
+        "Longitude": -49.2
+    },
+    {
+        "Iceberg": "d30b; Date: 2023230 \n Lat:-61.14 Lon:-47.53",
+        "Latitude": -61.14,
+        "Longitude": -47.53
+    },
+    {
+        "Iceberg": "d28; Date: 2023230 \n Lat:-61.16 Lon:-53.31",
+        "Latitude": -61.16,
+        "Longitude": -53.31
+    },
+    {
+        "Iceberg": "b15i; Date: 2010108 \n Lat:-61.22 Lon:167.25",
+        "Latitude": -61.22,
+        "Longitude": 167.25
+    },
+    {
+        "Iceberg": "d29a; Date: 2023230 \n Lat:-61.35 Lon:-29.92",
+        "Latitude": -61.35,
+        "Longitude": -29.92
+    },
+    {
+        "Iceberg": "a33; Date: 1994163 \n Lat:-61.4 Lon:-51.2",
+        "Latitude": -61.4,
+        "Longitude": -51.2
+    },
+    {
+        "Iceberg": "a06; Date: 1980013 \n Lat:-61.6 Lon:-53.4",
+        "Latitude": -61.6,
+        "Longitude": -53.4
+    },
+    {
+        "Iceberg": "e15; Date: 1998345 \n Lat:-61.9397 Lon:74.1352",
+        "Latitude": -61.9397,
+        "Longitude": 74.1352
+    },
+    {
+        "Iceberg": "d30a; Date: 2023223 \n Lat:-61.94 Lon:-54.83",
+        "Latitude": -61.94,
+        "Longitude": -54.83
+    },
+    {
+        "Iceberg": "b02; Date: 1985363 \n Lat:-62 Lon:-163.2",
+        "Latitude": -62.0,
+        "Longitude": -163.2
+    },
+    {
+        "Iceberg": "d29c; Date: 2023230 \n Lat:-62.02 Lon:-42",
+        "Latitude": -62.02,
+        "Longitude": -42.0
+    },
+    {
+        "Iceberg": "d31; Date: 2023216 \n Lat:-62.33 Lon:-48.18",
+        "Latitude": -62.33,
+        "Longitude": -48.18
+    },
+    {
+        "Iceberg": "a63; Date: 2021337 \n Lat:-62.33 Lon:-50.63",
+        "Latitude": -62.33,
+        "Longitude": -50.63
+    },
+    {
+        "Iceberg": "a54; Date: 2006134 \n Lat:-62.52 Lon:-59.5",
+        "Latitude": -62.52,
+        "Longitude": -59.5
+    },
+    {
+        "Iceberg": "b30; Date: 2018265 \n Lat:-62.5368 Lon:-145.9607",
+        "Latitude": -62.5368,
+        "Longitude": -145.9607
+    },
+    {
+        "Iceberg": "a53b; Date: 2006274 \n Lat:-63 Lon:-53.65",
+        "Latitude": -63.0,
+        "Longitude": -53.65
+    },
+    {
+        "Iceberg": "b15q; Date: 2008335 \n Lat:-63.05 Lon:96.25",
+        "Latitude": -63.05,
+        "Longitude": 96.25
+    },
+    {
+        "Iceberg": "a49; Date: 2003026 \n Lat:-63.1 Lon:-52",
+        "Latitude": -63.1,
+        "Longitude": -52.0
+    },
+    {
+        "Iceberg": "a78; Date: 2023230 \n Lat:-63.35 Lon:-39.05",
+        "Latitude": -63.35,
+        "Longitude": -39.05
+    },
+    {
+        "Iceberg": "b06; Date: 1991174 \n Lat:-63.4 Lon:-146.3",
+        "Latitude": -63.4,
+        "Longitude": -146.3
+    },
+    {
+        "Iceberg": "b09g; Date: 2014002 \n Lat:-63.5041 Lon:95.0481",
+        "Latitude": -63.5041,
+        "Longitude": 95.0481
+    },
+    {
+        "Iceberg": "a57b; Date: 2018230 \n Lat:-63.5361 Lon:-54.9204",
+        "Latitude": -63.5361,
+        "Longitude": -54.9204
+    },
+    {
+        "Iceberg": "a55; Date: 2009216 \n Lat:-63.6039 Lon:-56.4804",
+        "Latitude": -63.6039,
+        "Longitude": -56.4804
+    },
+    {
+        "Iceberg": "c09; Date: 2002318 \n Lat:-63.8975 Lon:99.0585",
+        "Latitude": -63.8975,
+        "Longitude": 99.0585
+    },
+    {
+        "Iceberg": "c10; Date: 2003047 \n Lat:-64 Lon:99",
+        "Latitude": -64.0,
+        "Longitude": 99.0
+    },
+    {
+        "Iceberg": "c34; Date: 2020192 \n Lat:-64.05 Lon:98.6333",
+        "Latitude": -64.05,
+        "Longitude": 98.6333
+    },
+    {
+        "Iceberg": "b15g; Date: 2005310 \n Lat:-64.07 Lon:99.65",
+        "Latitude": -64.07,
+        "Longitude": 99.65
+    },
+    {
+        "Iceberg": "b39; Date: 2019207 \n Lat:-64.0833 Lon:94.95",
+        "Latitude": -64.0833,
+        "Longitude": 94.95
+    },
+    {
+        "Iceberg": "b09c; Date: 2012225 \n Lat:-64.12 Lon:98.96",
+        "Latitude": -64.12,
+        "Longitude": 98.96
+    },
+    {
+        "Iceberg": "c18b; Date: 2020364 \n Lat:-64.2797 Lon:99.5001",
+        "Latitude": -64.2797,
+        "Longitude": 99.5001
+    },
+    {
+        "Iceberg": "c19b; Date: 2006303 \n Lat:-64.2873 Lon:99.3069",
+        "Latitude": -64.2873,
+        "Longitude": 99.3069
+    },
+    {
+        "Iceberg": "c05; Date: 1989323 \n Lat:-64.3 Lon:98.1",
+        "Latitude": -64.3,
+        "Longitude": 98.1
+    },
+    {
+        "Iceberg": "c24; Date: 2006086 \n Lat:-64.3215 Lon:95.989",
+        "Latitude": -64.3215,
+        "Longitude": 95.989
+    },
+    {
+        "Iceberg": "b15h; Date: 2003131 \n Lat:-64.4 Lon:100.3",
+        "Latitude": -64.4,
+        "Longitude": 100.3
+    },
+    {
+        "Iceberg": "c31; Date: 2018276 \n Lat:-64.4166 Lon:96.3194",
+        "Latitude": -64.4166,
+        "Longitude": 96.3194
+    },
+    {
+        "Iceberg": "c21b; Date: 2018038 \n Lat:-64.4476 Lon:95.6029",
+        "Latitude": -64.4476,
+        "Longitude": 95.6029
+    },
+    {
+        "Iceberg": "c30; Date: 2018299 \n Lat:-64.4796 Lon:96.1774",
+        "Latitude": -64.4796,
+        "Longitude": 96.1774
+    },
+    {
+        "Iceberg": "c37; Date: 2023041 \n Lat:-64.5 Lon:100.24",
+        "Latitude": -64.5,
+        "Longitude": 100.24
+    },
+    {
+        "Iceberg": "d03; Date: 1979105 \n Lat:-64.6 Lon:78.2",
+        "Latitude": -64.6,
+        "Longitude": 78.2
+    },
+    {
+        "Iceberg": "a54b; Date: 2006211 \n Lat:-64.645 Lon:-56.425",
+        "Latitude": -64.645,
+        "Longitude": -56.425
+    },
+    {
+        "Iceberg": "b15s; Date: 2009290 \n Lat:-64.6547 Lon:131.5768",
+        "Latitude": -64.6547,
+        "Longitude": 131.5768
+    },
+    {
+        "Iceberg": "c32; Date: 2018314 \n Lat:-64.6768 Lon:134.0475",
+        "Latitude": -64.6768,
+        "Longitude": 134.0475
+    },
+    {
+        "Iceberg": "c27; Date: 2010024 \n Lat:-64.68 Lon:96.73",
+        "Latitude": -64.68,
+        "Longitude": 96.73
+    },
+    {
+        "Iceberg": "c11; Date: 2000338 \n Lat:-64.6903 Lon:97.0044",
+        "Latitude": -64.6903,
+        "Longitude": 97.0044
+    },
+    {
+        "Iceberg": "c12; Date: 1997061 \n Lat:-64.7 Lon:97.1",
+        "Latitude": -64.7,
+        "Longitude": 97.1
+    },
+    {
+        "Iceberg": "b15m; Date: 2007196 \n Lat:-64.73 Lon:133.87",
+        "Latitude": -64.73,
+        "Longitude": 133.87
+    },
+    {
+        "Iceberg": "c33; Date: 2020129 \n Lat:-64.75 Lon:134.25",
+        "Latitude": -64.75,
+        "Longitude": 134.25
+    },
+    {
+        "Iceberg": "c39; Date: 2023230 \n Lat:-64.76 Lon:98.39",
+        "Latitude": -64.76,
+        "Longitude": 98.39
+    },
+    {
+        "Iceberg": "b40; Date: 2016197 \n Lat:-64.8 Lon:135.5167",
+        "Latitude": -64.8,
+        "Longitude": 135.5167
+    },
+    {
+        "Iceberg": "c38b; Date: 2023055 \n Lat:-64.86 Lon:101.92",
+        "Latitude": -64.86,
+        "Longitude": 101.92
+    },
+    {
+        "Iceberg": "a32b; Date: 1995148 \n Lat:-64.9 Lon:-57.7",
+        "Latitude": -64.9,
+        "Longitude": -57.7
+    },
+    {
+        "Iceberg": "e09; Date: 1995229 \n Lat:-64.9822 Lon:-57.056",
+        "Latitude": -64.9822,
+        "Longitude": -57.056
+    },
+    {
+        "Iceberg": "a32; Date: 1995141 \n Lat:-65 Lon:-57.7",
+        "Latitude": -65.0,
+        "Longitude": -57.7
+    },
+    {
+        "Iceberg": "d05; Date: 1979350 \n Lat:-65 Lon:130.1",
+        "Latitude": -65.0,
+        "Longitude": 130.1
+    },
+    {
+        "Iceberg": "c21; Date: 2003068 \n Lat:-65 Lon:95.8",
+        "Latitude": -65.0,
+        "Longitude": 95.8
+    },
+    {
+        "Iceberg": "e17; Date: 1999286 \n Lat:-65.1284 Lon:149.9079",
+        "Latitude": -65.1284,
+        "Longitude": 149.9079
+    },
+    {
+        "Iceberg": "e07; Date: 1994358 \n Lat:-65.1692 Lon:54.3878",
+        "Latitude": -65.1692,
+        "Longitude": 54.3878
+    },
+    {
+        "Iceberg": "c38a; Date: 2022105 \n Lat:-65.17 Lon:101.66",
+        "Latitude": -65.17,
+        "Longitude": 101.66
+    },
+    {
+        "Iceberg": "c38; Date: 2022081 \n Lat:-65.1977 Lon:101.7221",
+        "Latitude": -65.1977,
+        "Longitude": 101.7221
+    },
+    {
+        "Iceberg": "c01; Date: 1982339 \n Lat:-65.2 Lon:111.6",
+        "Latitude": -65.2,
+        "Longitude": 111.6
+    },
+    {
+        "Iceberg": "a38g; Date: 2002017 \n Lat:-65.2133 Lon:-55.7533",
+        "Latitude": -65.2133,
+        "Longitude": -55.7533
+    },
+    {
+        "Iceberg": "e06; Date: 1992229 \n Lat:-65.2669 Lon:51.4139",
+        "Latitude": -65.2669,
+        "Longitude": 51.4139
+    },
+    {
+        "Iceberg": "e08; Date: 1995232 \n Lat:-65.268 Lon:54.0746",
+        "Latitude": -65.268,
+        "Longitude": 54.0746
+    },
+    {
+        "Iceberg": "b30b; Date: 2019169 \n Lat:-65.2709 Lon:-131.3068",
+        "Latitude": -65.2709,
+        "Longitude": -131.3068
+    },
+    {
+        "Iceberg": "a20; Date: 1986208 \n Lat:-65.3 Lon:-57.5",
+        "Latitude": -65.3,
+        "Longitude": -57.5
+    },
+    {
+        "Iceberg": "c14a; Date: 2011254 \n Lat:-65.34 Lon:125.3815",
+        "Latitude": -65.34,
+        "Longitude": 125.3815
+    },
+    {
+        "Iceberg": "b30a; Date: 2019166 \n Lat:-65.365 Lon:-131.7918",
+        "Latitude": -65.365,
+        "Longitude": -131.7918
+    },
+    {
+        "Iceberg": "d12; Date: 1997138 \n Lat:-65.3666 Lon:54.1988",
+        "Latitude": -65.3666,
+        "Longitude": 54.1988
+    },
+    {
+        "Iceberg": "a35; Date: 1995168 \n Lat:-65.3784 Lon:53.4592",
+        "Latitude": -65.3784,
+        "Longitude": 53.4592
+    },
+    {
+        "Iceberg": "e04; Date: 1992136 \n Lat:-65.3863 Lon:137.3621",
+        "Latitude": -65.3863,
+        "Longitude": 137.3621
+    },
+    {
+        "Iceberg": "e19; Date: 1999241 \n Lat:-65.3936 Lon:152.3133",
+        "Latitude": -65.3936,
+        "Longitude": 152.3133
+    },
+    {
+        "Iceberg": "a39; Date: 2001001 \n Lat:-65.4 Lon:-59.4",
+        "Latitude": -65.4,
+        "Longitude": -59.4
+    },
+    {
+        "Iceberg": "d02; Date: 1978274 \n Lat:-65.5146 Lon:81.293",
+        "Latitude": -65.5146,
+        "Longitude": 81.293
+    },
+    {
+        "Iceberg": "d27; Date: 2021169 \n Lat:-65.54 Lon:52.69",
+        "Latitude": -65.54,
+        "Longitude": 52.69
+    },
+    {
+        "Iceberg": "b15ab; Date: 2018300 \n Lat:-65.5638 Lon:51.1627",
+        "Latitude": -65.5638,
+        "Longitude": 51.1627
+    },
+    {
+        "Iceberg": "a76c; Date: 2023174 \n Lat:-65.57 Lon:-60.16",
+        "Latitude": -65.57,
+        "Longitude": -60.16
+    },
+    {
+        "Iceberg": "a76b; Date: 2023230 \n Lat:-65.57 Lon:-59.41",
+        "Latitude": -65.57,
+        "Longitude": -59.41
+    },
+    {
+        "Iceberg": "d13; Date: 1997040 \n Lat:-65.6 Lon:54.4",
+        "Latitude": -65.6,
+        "Longitude": 54.4
+    },
+    {
+        "Iceberg": "b46; Date: 2023230 \n Lat:-65.61 Lon:-151.26",
+        "Latitude": -65.61,
+        "Longitude": -151.26
+    },
+    {
+        "Iceberg": "d32; Date: 2023146 \n Lat:-65.64 Lon:55.49",
+        "Latitude": -65.64,
+        "Longitude": 55.49
+    },
+    {
+        "Iceberg": "c28a2; Date: 2012274 \n Lat:-65.6548 Lon:123.8671",
+        "Latitude": -65.6548,
+        "Longitude": 123.8671
+    },
+    {
+        "Iceberg": "b15v; Date: 2010045 \n Lat:-65.68 Lon:55.47",
+        "Latitude": -65.68,
+        "Longitude": 55.47
+    },
+    {
+        "Iceberg": "d22; Date: 2019207 \n Lat:-65.7333 Lon:81.5667",
+        "Latitude": -65.7333,
+        "Longitude": 81.5667
+    },
+    {
+        "Iceberg": "b34; Date: 2017082 \n Lat:-65.7342 Lon:174.7289",
+        "Latitude": -65.7342,
+        "Longitude": 174.7289
+    },
+    {
+        "Iceberg": "c21c; Date: 2005212 \n Lat:-65.82 Lon:84.47",
+        "Latitude": -65.82,
+        "Longitude": 84.47
+    },
+    {
+        "Iceberg": "e16; Date: 1999292 \n Lat:-65.839 Lon:170.3635",
+        "Latitude": -65.839,
+        "Longitude": 170.3635
+    },
+    {
+        "Iceberg": "d07; Date: 1983037 \n Lat:-65.9 Lon:87.8",
+        "Latitude": -65.9,
+        "Longitude": 87.8
+    },
+    {
+        "Iceberg": "c15; Date: 2023146 \n Lat:-65.93 Lon:143.19",
+        "Latitude": -65.93,
+        "Longitude": 143.19
+    },
+    {
+        "Iceberg": "c28; Date: 2010087 \n Lat:-66 Lon:142.92",
+        "Latitude": -66.0,
+        "Longitude": 142.92
+    },
+    {
+        "Iceberg": "a23a; Date: 2023230 \n Lat:-66 Lon:-54",
+        "Latitude": -66.0,
+        "Longitude": -54.0
+    },
+    {
+        "Iceberg": "d01; Date: 1976362 \n Lat:-66 Lon:62.4",
+        "Latitude": -66.0,
+        "Longitude": 62.4
+    },
+    {
+        "Iceberg": "c29; Date: 2022203 \n Lat:-66.01 Lon:142.91",
+        "Latitude": -66.01,
+        "Longitude": 142.91
+    },
+    {
+        "Iceberg": "e21; Date: 1997079 \n Lat:-66.0981 Lon:60.9709",
+        "Latitude": -66.0981,
+        "Longitude": 60.9709
+    },
+    {
+        "Iceberg": "a15; Date: 1981214 \n Lat:-66.1 Lon:-53.8",
+        "Latitude": -66.1,
+        "Longitude": -53.8
+    },
+    {
+        "Iceberg": "d15; Date: 2014317 \n Lat:-66.1054 Lon:81.6354",
+        "Latitude": -66.1054,
+        "Longitude": 81.6354
+    },
+    {
+        "Iceberg": "d24; Date: 2016016 \n Lat:-66.1395 Lon:57.8078",
+        "Latitude": -66.1395,
+        "Longitude": 57.8078
+    },
+    {
+        "Iceberg": "b09b; Date: 2023034 \n Lat:-66.17 Lon:143.43",
+        "Latitude": -66.17,
+        "Longitude": 143.43
+    },
+    {
+        "Iceberg": "d21; Date: 2013305 \n Lat:-66.2 Lon:85.7667",
+        "Latitude": -66.2,
+        "Longitude": 85.7667
+    },
+    {
+        "Iceberg": "a35a; Date: 2000246 \n Lat:-66.2272 Lon:-55.8756",
+        "Latitude": -66.2272,
+        "Longitude": -55.8756
+    },
+    {
+        "Iceberg": "c35; Date: 2023034 \n Lat:-66.23 Lon:143.1",
+        "Latitude": -66.23,
+        "Longitude": 143.1
+    },
+    {
+        "Iceberg": "d25; Date: 2016148 \n Lat:-66.25 Lon:35.85",
+        "Latitude": -66.25,
+        "Longitude": 35.85
+    },
+    {
+        "Iceberg": "e13; Date: 1996328 \n Lat:-66.286 Lon:-121.1888",
+        "Latitude": -66.286,
+        "Longitude": -121.1888
+    },
+    {
+        "Iceberg": "b14a; Date: 2001091 \n Lat:-66.3 Lon:178.8",
+        "Latitude": -66.3,
+        "Longitude": 178.8
+    },
+    {
+        "Iceberg": "d15a; Date: 2018280 \n Lat:-66.3363 Lon:81.8964",
+        "Latitude": -66.3363,
+        "Longitude": 81.8964
+    },
+    {
+        "Iceberg": "c40; Date: 2023169 \n Lat:-66.3753 Lon:109.9553",
+        "Latitude": -66.3753,
+        "Longitude": 109.9553
+    },
+    {
+        "Iceberg": "d20a; Date: 2023230 \n Lat:-66.38 Lon:-52.15",
+        "Latitude": -66.38,
+        "Longitude": -52.15
+    },
+    {
+        "Iceberg": "d15b; Date: 2018318 \n Lat:-66.397 Lon:81.8256",
+        "Latitude": -66.397,
+        "Longitude": 81.8256
+    },
+    {
+        "Iceberg": "a43d; Date: 2004074 \n Lat:-66.4 Lon:-58.6",
+        "Latitude": -66.4,
+        "Longitude": -58.6
+    },
+    {
+        "Iceberg": "a35b; Date: 2000233 \n Lat:-66.4 Lon:-55.4",
+        "Latitude": -66.4,
+        "Longitude": -55.4
+    },
+    {
+        "Iceberg": "a80a; Date: 2023230 \n Lat:-66.47 Lon:-58.36",
+        "Latitude": -66.47,
+        "Longitude": -58.36
+    },
+    {
+        "Iceberg": "b09e; Date: 2011170 \n Lat:-66.48 Lon:142.96",
+        "Latitude": -66.48,
+        "Longitude": 142.96
+    },
+    {
+        "Iceberg": "c19e; Date: 2004070 \n Lat:-66.5378 Lon:148.9906",
+        "Latitude": -66.5378,
+        "Longitude": 148.9906
+    },
+    {
+        "Iceberg": "e11; Date: 1993277 \n Lat:-66.5718 Lon:-161.4889",
+        "Latitude": -66.5718,
+        "Longitude": -161.4889
+    },
+    {
+        "Iceberg": "a12; Date: 1980202 \n Lat:-66.6 Lon:-60.2",
+        "Latitude": -66.6,
+        "Longitude": -60.2
+    },
+    {
+        "Iceberg": "a80d; Date: 2023230 \n Lat:-66.63 Lon:-58.11",
+        "Latitude": -66.63,
+        "Longitude": -58.11
+    },
+    {
+        "Iceberg": "c18; Date: 2003327 \n Lat:-66.7 Lon:152.1",
+        "Latitude": -66.7,
+        "Longitude": 152.1
+    },
+    {
+        "Iceberg": "a41; Date: 2000317 \n Lat:-66.7 Lon:-59.6",
+        "Latitude": -66.7,
+        "Longitude": -59.6
+    },
+    {
+        "Iceberg": "a21; Date: 1986299 \n Lat:-66.7 Lon:-59.5",
+        "Latitude": -66.7,
+        "Longitude": -59.5
+    },
+    {
+        "Iceberg": "e12; Date: 1993211 \n Lat:-66.8047 Lon:-179.6948",
+        "Latitude": -66.8047,
+        "Longitude": -179.6948
+    },
+    {
+        "Iceberg": "d08; Date: 1995099 \n Lat:-66.9 Lon:47.2",
+        "Latitude": -66.9,
+        "Longitude": 47.2
+    },
+    {
+        "Iceberg": "a07; Date: 1979315 \n Lat:-67 Lon:-60",
+        "Latitude": -67.0,
+        "Longitude": -60.0
+    },
+    {
+        "Iceberg": "a43h; Date: 2001301 \n Lat:-67.1 Lon:-55.5",
+        "Latitude": -67.1,
+        "Longitude": -55.5
+    },
+    {
+        "Iceberg": "b10b; Date: 1997288 \n Lat:-67.1128 Lon:167.652",
+        "Latitude": -67.1128,
+        "Longitude": 167.652
+    },
+    {
+        "Iceberg": "e05; Date: 1992043 \n Lat:-67.2 Lon:79.47",
+        "Latitude": -67.2,
+        "Longitude": 79.47
+    },
+    {
+        "Iceberg": "a53; Date: 2005009 \n Lat:-67.22 Lon:-60.53",
+        "Latitude": -67.22,
+        "Longitude": -60.53
+    },
+    {
+        "Iceberg": "b07b; Date: 1992019 \n Lat:-67.3 Lon:-171.8",
+        "Latitude": -67.3,
+        "Longitude": -171.8
+    },
+    {
+        "Iceberg": "a19; Date: 1984162 \n Lat:-67.3 Lon:-58.7",
+        "Latitude": -67.3,
+        "Longitude": -58.7
+    },
+    {
+        "Iceberg": "c14; Date: 2003026 \n Lat:-67.3 Lon:147.4",
+        "Latitude": -67.3,
+        "Longitude": 147.4
+    },
+    {
+        "Iceberg": "a45; Date: 2001273 \n Lat:-67.4 Lon:-54.7",
+        "Latitude": -67.4,
+        "Longitude": -54.7
+    },
+    {
+        "Iceberg": "c03; Date: 1983023 \n Lat:-67.4 Lon:147.6",
+        "Latitude": -67.4,
+        "Longitude": 147.6
+    },
+    {
+        "Iceberg": "e02; Date: 1992345 \n Lat:-67.4298 Lon:-148.132",
+        "Latitude": -67.4298,
+        "Longitude": -148.132
+    },
+    {
+        "Iceberg": "b43; Date: 2020247 \n Lat:-67.5315 Lon:165.2879",
+        "Latitude": -67.5315,
+        "Longitude": 165.2879
+    },
+    {
+        "Iceberg": "a35c; Date: 2000233 \n Lat:-67.6 Lon:-58.1",
+        "Latitude": -67.6,
+        "Longitude": -58.1
+    },
+    {
+        "Iceberg": "a51; Date: 2002300 \n Lat:-67.6 Lon:-60.9",
+        "Latitude": -67.6,
+        "Longitude": -60.9
+    },
+    {
+        "Iceberg": "c14b; Date: 2002130 \n Lat:-67.6 Lon:147.2",
+        "Latitude": -67.6,
+        "Longitude": 147.2
+    },
+    {
+        "Iceberg": "b35; Date: 2017351 \n Lat:-67.686 Lon:-96.2366",
+        "Latitude": -67.686,
+        "Longitude": -96.2366
+    },
+    {
+        "Iceberg": "e18; Date: 1999352 \n Lat:-67.7458 Lon:-166.9288",
+        "Latitude": -67.7458,
+        "Longitude": -166.9288
+    },
+    {
+        "Iceberg": "a68; Date: 2017225 \n Lat:-67.747 Lon:-60.691",
+        "Latitude": -67.747,
+        "Longitude": -60.691
+    },
+    {
+        "Iceberg": "d06; Date: 1980132 \n Lat:-67.8 Lon:78.7",
+        "Latitude": -67.8,
+        "Longitude": 78.7
+    },
+    {
+        "Iceberg": "d09; Date: 1995064 \n Lat:-67.8 Lon:70.1",
+        "Latitude": -67.8,
+        "Longitude": 70.1
+    },
+    {
+        "Iceberg": "c36; Date: 2021055 \n Lat:-67.8672 Lon:147.6758",
+        "Latitude": -67.8672,
+        "Longitude": 147.6758
+    },
+    {
+        "Iceberg": "c17; Date: 2002130 \n Lat:-67.966 Lon:153.6207",
+        "Latitude": -67.966,
+        "Longitude": 153.6207
+    },
+    {
+        "Iceberg": "e03; Date: 92331 \n Lat:-67.9944 Lon:-174.526",
+        "Latitude": -67.9944,
+        "Longitude": -174.526
+    },
+    {
+        "Iceberg": "a44; Date: 2001329 \n Lat:-68.2 Lon:-56.5",
+        "Latitude": -68.2,
+        "Longitude": -56.5
+    },
+    {
+        "Iceberg": "b41; Date: 2020355 \n Lat:-68.4421 Lon:-179.6248",
+        "Latitude": -68.4421,
+        "Longitude": -179.6248
+    },
+    {
+        "Iceberg": "d20b; Date: 2017150 \n Lat:-68.4496 Lon:35.7909",
+        "Latitude": -68.4496,
+        "Longitude": 35.7909
+    },
+    {
+        "Iceberg": "a36; Date: 1998280 \n Lat:-68.4949 Lon:-59.8941",
+        "Latitude": -68.4949,
+        "Longitude": -59.8941
+    },
+    {
+        "Iceberg": "a71; Date: 2021167 \n Lat:-68.5355 Lon:-59.9938",
+        "Latitude": -68.5355,
+        "Longitude": -59.9938
+    },
+    {
+        "Iceberg": "a73; Date: 2021064 \n Lat:-68.71 Lon:-59.99",
+        "Latitude": -68.71,
+        "Longitude": -59.99
+    },
+    {
+        "Iceberg": "a27; Date: 2011296 \n Lat:-68.77 Lon:-57.55",
+        "Latitude": -68.77,
+        "Longitude": -57.55
+    },
+    {
+        "Iceberg": "d14; Date: 2012027 \n Lat:-68.8954 Lon:74.9432",
+        "Latitude": -68.8954,
+        "Longitude": 74.9432
+    },
+    {
+        "Iceberg": "b03; Date: 1983254 \n Lat:-68.9 Lon:-177.8",
+        "Latitude": -68.9,
+        "Longitude": -177.8
+    },
+    {
+        "Iceberg": "b13; Date: 1997349 \n Lat:-68.9306 Lon:-159.6535",
+        "Latitude": -68.9306,
+        "Longitude": -159.6535
+    },
+    {
+        "Iceberg": "a69; Date: 2020185 \n Lat:-68.95 Lon:-60.7",
+        "Latitude": -68.95,
+        "Longitude": -60.7
+    },
+    {
+        "Iceberg": "c19; Date: 2003201 \n Lat:-68.9947 Lon:160.8327",
+        "Latitude": -68.9947,
+        "Longitude": 160.8327
+    },
+    {
+        "Iceberg": "b18; Date: 2001007 \n Lat:-69 Lon:158.8",
+        "Latitude": -69.0,
+        "Longitude": 158.8
+    },
+    {
+        "Iceberg": "b15e; Date: 2001015 \n Lat:-69.0242 Lon:158.6148",
+        "Latitude": -69.0242,
+        "Longitude": 158.6148
+    },
+    {
+        "Iceberg": "d10; Date: 1996063 \n Lat:-69.1 Lon:75",
+        "Latitude": -69.1,
+        "Longitude": 75.0
+    },
+    {
+        "Iceberg": "d20; Date: 2013175 \n Lat:-69.16 Lon:36.39",
+        "Latitude": -69.16,
+        "Longitude": 36.39
+    },
+    {
+        "Iceberg": "a72; Date: 2021057 \n Lat:-69.16 Lon:-60.68",
+        "Latitude": -69.16,
+        "Longitude": -60.68
+    },
+    {
+        "Iceberg": "d26; Date: 2023118 \n Lat:-69.19 Lon:29.44",
+        "Latitude": -69.19,
+        "Longitude": 29.44
+    },
+    {
+        "Iceberg": "d23; Date: 2018323 \n Lat:-69.2099 Lon:74.3665",
+        "Latitude": -69.2099,
+        "Longitude": 74.3665
+    },
+    {
+        "Iceberg": "a37; Date: 1998214 \n Lat:-69.6 Lon:-60.8",
+        "Latitude": -69.6,
+        "Longitude": -60.8
+    },
+    {
+        "Iceberg": "a59; Date: 2010122 \n Lat:-69.73 Lon:-73.45",
+        "Latitude": -69.73,
+        "Longitude": -73.45
+    },
+    {
+        "Iceberg": "b22b; Date: 2005271 \n Lat:-69.9412 Lon:-166.288",
+        "Latitude": -69.9412,
+        "Longitude": -166.288
+    },
+    {
+        "Iceberg": "a58; Date: 2008321 \n Lat:-70.05 Lon:-72.68",
+        "Latitude": -70.05,
+        "Longitude": -72.68
+    },
+    {
+        "Iceberg": "c22; Date: 2005261 \n Lat:-70.12 Lon:167.52",
+        "Latitude": -70.12,
+        "Longitude": 167.52
+    },
+    {
+        "Iceberg": "a60; Date: 2010024 \n Lat:-70.27 Lon:-72.97",
+        "Latitude": -70.27,
+        "Longitude": -72.97
+    },
+    {
+        "Iceberg": "b12; Date: 1997279 \n Lat:-70.3183 Lon:-155.9425",
+        "Latitude": -70.3183,
+        "Longitude": -155.9425
+    },
+    {
+        "Iceberg": "a75; Date: 2021166 \n Lat:-70.3686 Lon:-60.2721",
+        "Latitude": -70.3686,
+        "Longitude": -60.2721
+    },
+    {
+        "Iceberg": "a11; Date: 1980139 \n Lat:-70.5 Lon:-44.3",
+        "Latitude": -70.5,
+        "Longitude": -44.3
+    },
+    {
+        "Iceberg": "a74b; Date: 2023230 \n Lat:-70.59 Lon:-55.14",
+        "Latitude": -70.59,
+        "Longitude": -55.14
+    },
+    {
+        "Iceberg": "c23; Date: 2005296 \n Lat:-70.6 Lon:171.18",
+        "Latitude": -70.6,
+        "Longitude": 171.18
+    },
+    {
+        "Iceberg": "a77; Date: 2021239 \n Lat:-70.99 Lon:-14.03",
+        "Latitude": -70.99,
+        "Longitude": -14.03
+    },
+    {
+        "Iceberg": "a79; Date: 2022147 \n Lat:-71.02 Lon:-60.46",
+        "Latitude": -71.02,
+        "Longitude": -60.46
+    },
+    {
+        "Iceberg": "b09; Date: 1989211 \n Lat:-71.3 Lon:-170.9",
+        "Latitude": -71.3,
+        "Longitude": -170.9
+    },
+    {
+        "Iceberg": "b05; Date: 1983170 \n Lat:-71.3 Lon:-97.8",
+        "Latitude": -71.3,
+        "Longitude": -97.8
+    },
+    {
+        "Iceberg": "a57; Date: 2015365 \n Lat:-71.3181 Lon:-58.1499",
+        "Latitude": -71.3181,
+        "Longitude": -58.1499
+    },
+    {
+        "Iceberg": "b10; Date: 1995029 \n Lat:-71.4 Lon:-117.5",
+        "Latitude": -71.4,
+        "Longitude": -117.5
+    },
+    {
+        "Iceberg": "a80b; Date: 2022336 \n Lat:-71.43 Lon:-60.33",
+        "Latitude": -71.43,
+        "Longitude": -60.33
+    },
+    {
+        "Iceberg": "a80c; Date: 2022350 \n Lat:-71.52 Lon:-60.34",
+        "Latitude": -71.52,
+        "Longitude": -60.34
+    },
+    {
+        "Iceberg": "e01; Date: 1992076 \n Lat:-71.5829 Lon:-110.2764",
+        "Latitude": -71.5829,
+        "Longitude": -110.2764
+    },
+    {
+        "Iceberg": "b11; Date: 1995340 \n Lat:-71.6155 Lon:-120.0083",
+        "Latitude": -71.6155,
+        "Longitude": -120.0083
+    },
+    {
+        "Iceberg": "b22a; Date: 2023223 \n Lat:-71.69 Lon:-113.42",
+        "Latitude": -71.69,
+        "Longitude": -113.42
+    },
+    {
+        "Iceberg": "b07; Date: 1987172 \n Lat:-71.8 Lon:-113.3",
+        "Latitude": -71.8,
+        "Longitude": -113.3
+    },
+    {
+        "Iceberg": "b22c; Date: 2003124 \n Lat:-72 Lon:-113.8",
+        "Latitude": -72.0,
+        "Longitude": -113.8
+    },
+    {
+        "Iceberg": "b37; Date: 2022014 \n Lat:-72.0026 Lon:-115.5606",
+        "Latitude": -72.0026,
+        "Longitude": -115.5606
+    },
+    {
+        "Iceberg": "c25; Date: 2007030 \n Lat:-72.196 Lon:171.6656",
+        "Latitude": -72.196,
+        "Longitude": 171.6656
+    },
+    {
+        "Iceberg": "a34; Date: 1996245 \n Lat:-72.2 Lon:-16.9",
+        "Latitude": -72.2,
+        "Longitude": -16.9
+    },
+    {
+        "Iceberg": "a14; Date: 1980349 \n Lat:-72.3 Lon:-36",
+        "Latitude": -72.3,
+        "Longitude": -36.0
+    },
+    {
+        "Iceberg": "b21a; Date: 2010045 \n Lat:-72.38 Lon:-112.35",
+        "Latitude": -72.38,
+        "Longitude": -112.35
+    },
+    {
+        "Iceberg": "b05a; Date: 1990021 \n Lat:-72.5 Lon:-111.9",
+        "Latitude": -72.5,
+        "Longitude": -111.9
+    },
+    {
+        "Iceberg": "b08; Date: 1990168 \n Lat:-72.7 Lon:-119.8",
+        "Latitude": -72.7,
+        "Longitude": -119.8
+    },
+    {
+        "Iceberg": "b45; Date: 2023230 \n Lat:-72.81 Lon:-111",
+        "Latitude": -72.81,
+        "Longitude": -111.0
+    },
+    {
+        "Iceberg": "e10; Date: 1998022 \n Lat:-72.9207 Lon:-176.4672",
+        "Latitude": -72.9207,
+        "Longitude": -176.4672
+    },
+    {
+        "Iceberg": "a30; Date: 1991132 \n Lat:-73 Lon:-35.4",
+        "Latitude": -73.0,
+        "Longitude": -35.4
+    },
+    {
+        "Iceberg": "b15c; Date: 2002005 \n Lat:-73.1 Lon:-179.3",
+        "Latitude": -73.1,
+        "Longitude": -179.3
+    },
+    {
+        "Iceberg": "b17; Date: 2000357 \n Lat:-73.3108 Lon:-179.5039",
+        "Latitude": -73.3108,
+        "Longitude": -179.5039
+    },
+    {
+        "Iceberg": "b32; Date: 2014311 \n Lat:-73.4 Lon:-131.88",
+        "Latitude": -73.4,
+        "Longitude": -131.88
+    },
+    {
+        "Iceberg": "a74a; Date: 2023230 \n Lat:-73.43 Lon:-55.68",
+        "Latitude": -73.43,
+        "Longitude": -55.68
+    },
+    {
+        "Iceberg": "b48; Date: 2020059 \n Lat:-73.5 Lon:-114.4833",
+        "Latitude": -73.5,
+        "Longitude": -114.4833
+    },
+    {
+        "Iceberg": "b47; Date: 2020346 \n Lat:-73.5371 Lon:-134.163",
+        "Latitude": -73.5371,
+        "Longitude": -134.163
+    },
+    {
+        "Iceberg": "b29; Date: 2023069 \n Lat:-73.69 Lon:-110.48",
+        "Latitude": -73.69,
+        "Longitude": -110.48
+    },
+    {
+        "Iceberg": "b22e; Date: 2003250 \n Lat:-73.7 Lon:-138.4",
+        "Latitude": -73.7,
+        "Longitude": -138.4
+    },
+    {
+        "Iceberg": "a13; Date: 1980349 \n Lat:-73.8 Lon:-38.5",
+        "Latitude": -73.8,
+        "Longitude": -38.5
+    },
+    {
+        "Iceberg": "c13; Date: 1997110 \n Lat:-74.03 Lon:168.48",
+        "Latitude": -74.03,
+        "Longitude": 168.48
+    },
+    {
+        "Iceberg": "b28; Date: 2022343 \n Lat:-74.05 Lon:-110.12",
+        "Latitude": -74.05,
+        "Longitude": -110.12
+    },
+    {
+        "Iceberg": "b22d; Date: 2002174 \n Lat:-74.1 Lon:-106.8",
+        "Latitude": -74.1,
+        "Longitude": -106.8
+    },
+    {
+        "Iceberg": "b49; Date: 2020263 \n Lat:-74.1482 Lon:-106.3113",
+        "Latitude": -74.1482,
+        "Longitude": -106.3113
+    },
+    {
+        "Iceberg": "e14; Date: 1998181 \n Lat:-74.2138 Lon:177.1904",
+        "Latitude": -74.2138,
+        "Longitude": 177.1904
+    },
+    {
+        "Iceberg": "b21b; Date: 2002055 \n Lat:-74.38 Lon:-104.57",
+        "Latitude": -74.38,
+        "Longitude": -104.57
+    },
+    {
+        "Iceberg": "b23; Date: 2003033 \n Lat:-74.4 Lon:-109",
+        "Latitude": -74.4,
+        "Longitude": -109.0
+    },
+    {
+        "Iceberg": "b21; Date: 2001329 \n Lat:-74.4 Lon:-103.6",
+        "Latitude": -74.4,
+        "Longitude": -103.6
+    },
+    {
+        "Iceberg": "b33; Date: 2015143 \n Lat:-74.4475 Lon:-103.4816",
+        "Latitude": -74.4475,
+        "Longitude": -103.4816
+    },
+    {
+        "Iceberg": "b24; Date: 2003131 \n Lat:-74.5 Lon:-109.3",
+        "Latitude": -74.5,
+        "Longitude": -109.3
+    },
+    {
+        "Iceberg": "b36; Date: 2015275 \n Lat:-74.6167 Lon:-104.7",
+        "Latitude": -74.6167,
+        "Longitude": -104.7
+    },
+    {
+        "Iceberg": "b25; Date: 2003040 \n Lat:-74.7 Lon:-109.3",
+        "Latitude": -74.7,
+        "Longitude": -109.3
+    },
+    {
+        "Iceberg": "b44; Date: 2017287 \n Lat:-74.93 Lon:-100.967",
+        "Latitude": -74.93,
+        "Longitude": -100.967
+    },
+    {
+        "Iceberg": "b07a; Date: 1991216 \n Lat:-75.1 Lon:-157.8",
+        "Latitude": -75.1,
+        "Longitude": -157.8
+    },
+    {
+        "Iceberg": "a76; Date: 2021142 \n Lat:-75.1646 Lon:-59.0531",
+        "Latitude": -75.1646,
+        "Longitude": -59.0531
+    },
+    {
+        "Iceberg": "a74; Date: 2021218 \n Lat:-75.19 Lon:-26.84",
+        "Latitude": -75.19,
+        "Longitude": -26.84
+    },
+    {
+        "Iceberg": "a67; Date: 2016001 \n Lat:-75.3167 Lon:-26.9",
+        "Latitude": -75.3167,
+        "Longitude": -26.9
+    },
+    {
+        "Iceberg": "a27a; Date: 2004228 \n Lat:-75.4 Lon:-42.5",
+        "Latitude": -75.4,
+        "Longitude": -42.5
+    },
+    {
+        "Iceberg": "a81; Date: 2023027 \n Lat:-75.66 Lon:-27.16",
+        "Latitude": -75.66,
+        "Longitude": -27.16
+    },
+    {
+        "Iceberg": "a42; Date: 2001252 \n Lat:-76.1 Lon:-49.1",
+        "Latitude": -76.1,
+        "Longitude": -49.1
+    },
+    {
+        "Iceberg": "a23; Date: 1990035 \n Lat:-76.2 Lon:-41",
+        "Latitude": -76.2,
+        "Longitude": -41.0
+    },
+    {
+        "Iceberg": "a22; Date: 1990035 \n Lat:-76.5 Lon:-42.5",
+        "Latitude": -76.5,
+        "Longitude": -42.5
+    },
+    {
+        "Iceberg": "b38; Date: 2023104 \n Lat:-76.77 Lon:-155.1",
+        "Latitude": -76.77,
+        "Longitude": -155.1
+    },
+    {
+        "Iceberg": "b20; Date: 2000268 \n Lat:-77 Lon:170.7",
+        "Latitude": -77.0,
+        "Longitude": 170.7
+    },
+    {
+        "Iceberg": "a38; Date: 1998284 \n Lat:-77.1 Lon:-49.7",
+        "Latitude": -77.1,
+        "Longitude": -49.7
+    },
+    {
+        "Iceberg": "a40a; Date: 2000312 \n Lat:-77.1418 Lon:-48.7871",
+        "Latitude": -77.1418,
+        "Longitude": -48.7871
+    },
+    {
+        "Iceberg": "a40; Date: 1999122 \n Lat:-77.3 Lon:-50.1",
+        "Latitude": -77.3,
+        "Longitude": -50.1
+    },
+    {
+        "Iceberg": "b15; Date: 2000093 \n Lat:-77.95 Lon:-170.85",
+        "Latitude": -77.95,
+        "Longitude": -170.85
+    },
+    {
+        "Iceberg": "b26; Date: 2004074 \n Lat:-78.4 Lon:-165.3",
+        "Latitude": -78.4,
+        "Longitude": -165.3
+    }
+]
